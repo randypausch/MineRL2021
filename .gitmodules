@@ -1,0 +1,3 @@
+[submodule "dhruvlaad/rl4lyf_minerl"]
+	path = dhruvlaad/rl4lyf_minerl
+	url = https://github.com/Thalaivar/rl4lyf_minerl.git
